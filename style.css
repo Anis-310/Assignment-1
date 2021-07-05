@@ -1,0 +1,53 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
+}
+
+h1{
+    font-size: 48px;
+}
+
+section{
+    display: flex;
+    padding-left: 60px;
+
+}
+.top-header{
+    margin: 20px;
+}
+
+.half-width{
+    width: 50%;
+    text-align: left;
+    margin-right: 100px;
+}
+.half-width img{
+    width: 100%;
+    padding-left: 50px;
+
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( to right, rgb(228, 72, 25) , rgb(250, 127, 82));
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: white;
+
+}
+
+.about{
+    background-image: url(images/bg1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    
+}
+
+
+.food-recepie{
+    text-align: center;
+    margin-top:20px ;
+}
+
