@@ -24,10 +24,11 @@ section{
 }
 .half-width img{
     width: 100%;
-    padding-top: 20px;
 
+}
 
-
+#about-image{
+    padding-top: 50px;
 }
 
 .link-button{
@@ -49,6 +50,7 @@ section{
 #about-text{
     padding-left: 20px;
     padding-right: 120px;
+    padding-top: 50px;
 }
 
 
