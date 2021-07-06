@@ -91,7 +91,7 @@ section{
 }
 
 #quality-food{
-    background-color: rgb(12, 141, 135);
+    background-color: rgba(19, 141, 117);
     padding-left:50px;
     padding-right: 50px;
     border-radius: 5px 5px 5px 70px;
@@ -101,7 +101,7 @@ section{
 
 
 .shape-quality{
-    background-color: rgb(230, 175, 75);
+    background-color: rgb(238, 100, 20);
     border-radius: 80px 0px 0px 5px;
     padding: 50px;
     margin-left: -150px;
