@@ -6,6 +6,9 @@ body{
 h1{
     font-size: 48px;
 }
+h2{
+    font-size: 36px;
+}
 
 section{
     display: flex;
@@ -13,7 +16,7 @@ section{
 
 }
 .top-header{
-    margin: 20px;
+    margin-bottom: 100px;
 }
 
 .half-width{
@@ -84,7 +87,39 @@ section{
     margin-left: 100px;
     margin-right: 100px;
     border-radius: 20px;
+    margin-bottom: 200px;
+}
+
+#quality-food{
+    background-color: rgb(12, 141, 135);
+    padding-left:50px;
+    padding-right: 50px;
+    border-radius: 5px 5px 5px 70px;
     margin-bottom: 100px;
+}
+
+
+
+.shape-quality{
+    background-color: rgb(161, 132, 77);
+    border-radius: 80px 0px 0px 5px;
+    padding: 50px;
+    margin-left: -150px;
+    margin-right: -50px;
+    margin-top: -100px;
+    color: rgb(5, 43, 43);
+    text-align: justify;
+
+}
+
+.quality-image{
+    padding-bottom: 95px;
+    margin-top: -50px;
+
+}
+
+.quality{
+    margin-top: 100px;
 }
 
 .footer{
