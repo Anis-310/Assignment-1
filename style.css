@@ -18,6 +18,9 @@ section{
 .top-header{
     margin-bottom: 100px;
 }
+#top-header-content{
+    margin-top: 100px;
+}
 
 .half-width{
     width: 50%;
@@ -37,9 +40,11 @@ section{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient( to right, rgb(228, 72, 25) , rgb(250, 127, 82));
-    padding: 10px 20px;
+    padding: 20px 30px;
     border-radius: 50px;
     color: white;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px 2px rgb(230, 230, 230);
 
 }
 
